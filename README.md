@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/seshureddy25/Leetcode_Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/seshureddy25/Leetcode_Cpp/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/seshureddy25/Leetcode_Cpp/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/seshureddy25/Leetcode_Cpp/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/seshureddy25/Leetcode_Cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/seshureddy25/Leetcode_Cpp/tree/master/0350-intersection-of-two-arrays-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/seshureddy25/Leetcode_Cpp/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
